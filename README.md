@@ -36,6 +36,12 @@ The dataset is automatically split into training (75%), validation (12.5%), and 
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 - `vit-keras` for Vision Transformer support
+- ## Dataset
+The dataset used in this project is the **Eye Diseases Classification** dataset from Kaggle. It contains retinal fundus images for four categories: Cataract, Diabetic Retinopathy, Glaucoma, and Normal.
+
+* **Source:** [Kaggle - Eye Diseases Classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
+* **Format:** Image files (.jpg) organized into folders by class.
+* **Total Images:** ~4,217 images.
 
 ### Installation
 ```bash
